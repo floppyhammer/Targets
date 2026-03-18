@@ -1,0 +1,30 @@
+{
+  "serial_rx": 20,
+  "serial_tx": 21,
+
+  "radio_nss": 7,
+  "radio_sck": 6,
+  "radio_miso": 5,
+  "radio_mosi": 4,
+  "radio_busy": 3,
+  "radio_rst": 2,
+  "radio_dio1": 1,
+
+  "power_rxen": 0,
+  "power_txen": 10,
+
+  "led_rgb": 8,
+  "led_rgb_isgrb": false,
+  "button": 9,
+
+  "power_lna_gain": 12,
+  "power_min": 0,
+  "power_high": 4,
+  "power_max": 4,
+  "power_default": 2,
+  "power_control": 0,
+  "power_values": [-15, -11, -8, -5, -1],
+
+  "use_backpack": false,
+  "debug_backpack_baud": 460800
+}
