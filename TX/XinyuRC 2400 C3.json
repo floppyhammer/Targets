@@ -13,8 +13,8 @@
   "power_rxen": 0,
   "power_txen": 10,
 
-  "led_rgb": 8,
-  "led_rgb_isgrb": false,
+  "led": 8,
+  "led_inverted": true,
   "button": 9,
 
   "power_lna_gain": 12,
@@ -24,6 +24,9 @@
   "power_default": 2,
   "power_control": 0,
   "power_values": [-15, -11, -8, -5, -1],
+
+  "serial_log_tx": 19,
+  "serial_log_baud": 115200,
 
   "use_backpack": false,
   "debug_backpack_baud": 460800
