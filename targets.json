@@ -4,7 +4,7 @@
         "tx_2400": {
             "a1": {
                 "product_name": "XinyuRC 2.4GHz A1 TX",
-                "lua_name": "XinyuRC 2400 TX A1",
+                "lua_name": "Xinyu 2G4 TX A1",
                 "layout_file": "XinyuRC A1.json",
                 "upload_methods": ["uart", "wifi"],
                 "min_version": "4.0.0",
@@ -13,7 +13,7 @@
             },
             "a2": {
                 "product_name": "XinyuRC 2.4GHz A2 TX",
-                "lua_name": "XinyuRC 2400 TX A2",
+                "lua_name": "Xinyu 2G4 TX A2",
                 "layout_file": "XinyuRC A2.json",
                 "upload_methods": ["uart", "wifi"],
                 "min_version": "4.0.0",
@@ -1232,7 +1232,7 @@
                 "firmware": "Unified_ESP32_2400_RX"
             }
         }
-    },          
+    },
     "flysky": {
         "name": "FlySky",
         "tx_2400": {
