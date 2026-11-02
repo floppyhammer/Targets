@@ -25,9 +25,7 @@
   "power_control": 0,
   "power_values": [-15, -11, -8, -5, -1],
 
-  "serial_log_tx": 19,
-  "serial_log_baud": 115200,
-
   "use_backpack": false,
-  "debug_backpack_baud": 460800
+  "debug_backpack_tx": 19,
+  "debug_backpack_baud": 115200
 }
