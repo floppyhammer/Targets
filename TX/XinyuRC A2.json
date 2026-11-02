@@ -18,13 +18,13 @@
 
   "button": 9,
 
-  "power_lna_gain": -1,
+  "power_lna_gain": 12,
   "power_min": 0,
   "power_high": 3,
   "power_max": 3,
   "power_default": 2,
   "power_control": 0,
-  "power_values": [-10, 0, 10, 20],
+  "power_values": [-11, -7, -4, -1],
 
   "serial_log_tx": 19,
   "serial_log_baud": 115200,
