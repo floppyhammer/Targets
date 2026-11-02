@@ -14,7 +14,6 @@
   "power_txen": 10,
 
   "led": 8,
-  "led_inverted": true,
 
   "button": 9,
 
